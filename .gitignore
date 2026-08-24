@@ -1,0 +1,33 @@
+# --- Environment / secrets ---
+.env
+.env.local
+!.env.example
+
+# --- Node ---
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# --- Python ---
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# --- Archived / not needed in new repo ---
+backend_flask_old/
+
+# --- Editors ---
+.vscode/
+.idea/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Local-only working files (not part of the reviewable codebase) ---
+/Adaptive BI_run cmd.txt
+/adaptive_bi_backup.sql
+/PROJECT_GUIDE.md
+/Screenshot 2026-08-13 114*.png
+/TOOLS WORKFLOW and prompt.txt

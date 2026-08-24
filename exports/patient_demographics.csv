@@ -1,0 +1,33 @@
+age_group,gender,insurance_type,count
+Pediatric,Male,Corporate,14
+Pediatric,Female,Government,16
+Pediatric,Female,Corporate,10
+Adult,Male,Corporate,68
+Pediatric,Female,Private,17
+Senior,Male,Self-Pay,88
+Adult,Male,Private,132
+Young Adult,Male,Self-Pay,50
+Pediatric,Female,Self-Pay,14
+Young Adult,Female,Government,48
+Senior,Female,Government,87
+Adult,Female,Private,129
+Adult,Female,Self-Pay,105
+Young Adult,Male,Private,41
+Young Adult,Female,Corporate,30
+Adult,Male,Self-Pay,143
+Pediatric,Male,Private,17
+Pediatric,Male,Government,19
+Senior,Female,Self-Pay,95
+Senior,Male,Corporate,46
+Adult,Female,Government,108
+Young Adult,Male,Corporate,27
+Senior,Female,Private,109
+Senior,Female,Corporate,37
+Adult,Female,Corporate,79
+Senior,Male,Government,79
+Adult,Male,Government,111
+Senior,Male,Private,87
+Young Adult,Male,Government,52
+Young Adult,Female,Private,61
+Pediatric,Male,Self-Pay,13
+Young Adult,Female,Self-Pay,68

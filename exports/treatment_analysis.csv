@@ -1,0 +1,38 @@
+treatment_name,category,transaction_count,total_revenue
+Prescription Medication,Pharmacy,439,758683.02
+Urine Analysis,Lab Test,440,150439.3
+Vaccination,Pharmacy,458,430248.69
+General Consultation,Consultation,421,243144.29
+Echocardiogram,Procedure,480,1664554.23
+Liver Function Test,Lab Test,460,477220.9
+Thyroid Panel,Lab Test,462,639810.27
+Cesarean Section,Surgery,463,64353855.67
+Physiotherapy Session,Procedure,469,541012.05
+Hip Replacement,Surgery,487,158704189.13
+Dialysis,Procedure,426,1966080.02
+Kidney Function Test,Lab Test,436,503913.2
+Trauma Care,Emergency,478,13786332.54
+Appendectomy,Surgery,473,43871089.54
+Telemedicine Consultation,Consultation,450,208591.14
+Cataract Surgery,Surgery,461,23809728.59
+X-Ray,Procedure,435,402158.61
+IV Medication,Pharmacy,483,1685174.88
+ICU Admission,Emergency,469,27106124.22
+ECG,Procedure,436,253374.44
+Second Opinion,Consultation,450,1032193.88
+CT Scan,Procedure,474,2715984.42
+Coronary Bypass Surgery,Surgery,493,199976800.56
+Blood Sugar (Fasting),Lab Test,423,96771.64
+Lipid Profile,Lab Test,450,413951.89
+MRI Scan,Procedure,452,4158801.67
+Hernia Repair,Surgery,485,33408410.76
+Emergency Room Visit,Emergency,461,2688296.8
+Tonsillectomy,Surgery,445,18002997.0
+Colonoscopy,Procedure,488,4489648.0
+Follow-up Visit,Consultation,452,157015.87
+Knee Replacement,Surgery,493,141338204.34
+Specialist Consultation,Consultation,481,828406.59
+Endoscopy,Procedure,484,3328460.46
+Complete Blood Count,Lab Test,448,307108.45
+COVID-19 RT-PCR,Lab Test,434,249311.42
+Ultrasound,Procedure,469,815852.88

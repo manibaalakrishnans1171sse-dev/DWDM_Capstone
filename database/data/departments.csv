@@ -1,0 +1,13 @@
+dept_id,dept_name,floor_number,building,category
+1,Cardiology,3,Main Block,Medical
+2,Orthopedics,2,Main Block,Surgical
+3,Neurology,4,Specialty Wing,Medical
+4,Pediatrics,1,Main Block,Medical
+5,General Surgery,2,Main Block,Surgical
+6,Dermatology,1,Specialty Wing,Medical
+7,Ophthalmology,3,Specialty Wing,Surgical
+8,ENT,3,Specialty Wing,Surgical
+9,Radiology,0,Main Block,Diagnostic
+10,Pathology,0,Main Block,Diagnostic
+11,Emergency,0,Emergency Block,Emergency
+12,Gynecology,2,Specialty Wing,Medical

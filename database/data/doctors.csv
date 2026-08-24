@@ -1,0 +1,151 @@
+doctor_id,doctor_name,specialization,department,experience_yrs,qualification
+1,Dr. Vamakshi Bail,General Cardiology,Cardiology,11,MS
+2,Dr. Girindra Bhatnagar,Electrophysiology,Cardiology,10,MBBS MD
+3,Dr. Kala Venkatesh,General Cardiology,Cardiology,16,MBBS
+4,Dr. Samesh Oza,Electrophysiology,Cardiology,2,MS
+5,Dr. Watika Wagle,Electrophysiology,Cardiology,7,MD
+6,Dr. Veer Modi,Electrophysiology,Cardiology,23,MS
+7,Dr. Michael Garg,Electrophysiology,Cardiology,12,MBBS MD
+8,Dr. Ishaan Sule,Interventional Cardiology,Cardiology,26,MBBS
+9,Dr. Maanas Batta,Interventional Cardiology,Cardiology,11,MCh
+10,Dr. Qushi Mane,Electrophysiology,Cardiology,26,MCh
+11,Dr. Geetika Dyal,Interventional Cardiology,Cardiology,23,MS
+12,Dr. Gavin Gill,General Cardiology,Cardiology,23,MD
+13,Dr. Gaurika Khanna,Interventional Cardiology,Cardiology,8,MBBS MS
+14,Dr. Anvi Nadig,Interventional Cardiology,Cardiology,29,MD
+15,Dr. Thomas Lad,Spine Surgery,Orthopedics,18,DM
+16,Dr. Hiral Jha,Sports Medicine,Orthopedics,10,MD
+17,Dr. Nitara Padmanabhan,Spine Surgery,Orthopedics,29,MBBS MS
+18,Dr. Ria Sen,Spine Surgery,Orthopedics,6,MS
+19,Dr. Nidhi Dara,Sports Medicine,Orthopedics,13,MBBS MS
+20,Dr. Tanmayi Tata,Spine Surgery,Orthopedics,11,DM
+21,Dr. Vasudha Nagarajan,Spine Surgery,Orthopedics,2,MBBS MS
+22,Dr. Aahana Tripathi,Joint Replacement,Orthopedics,15,MS
+23,Dr. Manbir Som,Spine Surgery,Orthopedics,26,MS
+24,Dr. Ethan Sathe,Sports Medicine,Orthopedics,8,MD
+25,Dr. Dayita Srinivas,Spine Surgery,Orthopedics,28,MS
+26,Dr. Ekaraj Dada,Spine Surgery,Orthopedics,15,MBBS MS
+27,Dr. Amaira Ratti,Spine Surgery,Orthopedics,19,MCh
+28,Dr. Udant Parikh,Joint Replacement,Orthopedics,21,MCh
+29,Dr. Omisha Bhakta,Epilepsy,Neurology,4,MD
+30,Dr. Indrajit Mall,Stroke,Neurology,25,DM
+31,Dr. Alka Chacko,Epilepsy,Neurology,26,MBBS MD
+32,Dr. Chameli Vala,General Neurology,Neurology,24,DM
+33,Dr. Gunbir Swaminathan,Stroke,Neurology,21,MCh
+34,Dr. Yashodhara Bhalla,Epilepsy,Neurology,5,MBBS
+35,Dr. Sneha Divan,Stroke,Neurology,19,MS
+36,Dr. Reva Raju,Stroke,Neurology,5,DM
+37,Dr. Abeer Mane,General Neurology,Neurology,4,MS
+38,Dr. Pushti Morar,Epilepsy,Neurology,29,MD
+39,Dr. Chameli Kale,General Neurology,Neurology,8,MCh
+40,Dr. Sarthak Savant,Stroke,Neurology,9,MS
+41,Dr. Gautami Samra,General Neurology,Neurology,18,MBBS MS
+42,Dr. Ekaraj Chadha,Neonatology,Pediatrics,26,MBBS MS
+43,Dr. Hemang Mitter,General Pediatrics,Pediatrics,24,MBBS MD
+44,Dr. Zaitra Nayak,Pediatric Surgery,Pediatrics,30,MBBS MS
+45,Dr. Riya Chakrabarti,General Pediatrics,Pediatrics,30,MD
+46,Dr. Samarth Mahajan,Pediatric Surgery,Pediatrics,16,MD
+47,Dr. Harita Shere,Pediatric Surgery,Pediatrics,12,MD
+48,Dr. Irya Grewal,Pediatric Surgery,Pediatrics,21,MBBS MD
+49,Dr. Maanav Swaminathan,Neonatology,Pediatrics,5,MBBS MD
+50,Dr. Nidhi Modi,Pediatric Surgery,Pediatrics,14,MBBS MS
+51,Dr. Vedika Kapur,Neonatology,Pediatrics,28,MCh
+52,Dr. Aarav Dube,General Pediatrics,Pediatrics,13,MBBS
+53,Dr. Netra Sodhi,Neonatology,Pediatrics,18,MBBS MS
+54,Dr. Mitali Sahni,Trauma Surgery,General Surgery,20,MS
+55,Dr. Yatan Konda,General Surgery,General Surgery,4,MCh
+56,Dr. Darpan Malhotra,General Surgery,General Surgery,26,MBBS
+57,Dr. Bahadurjit Pathak,General Surgery,General Surgery,29,MBBS MS
+58,Dr. Tejas Kuruvilla,General Surgery,General Surgery,16,MCh
+59,Dr. Darpan Prakash,Laparoscopic Surgery,General Surgery,26,MBBS MD
+60,Dr. Leela Gaba,Trauma Surgery,General Surgery,16,DM
+61,Dr. Elijah Nagarajan,General Surgery,General Surgery,12,MBBS
+62,Dr. Ekansh Parikh,General Surgery,General Surgery,20,MS
+63,Dr. Avni Mahajan,General Surgery,General Surgery,26,MBBS MD
+64,Dr. Ubika Parekh,Laparoscopic Surgery,General Surgery,14,MCh
+65,Dr. Mohini Manne,Laparoscopic Surgery,General Surgery,21,MBBS MS
+66,Dr. Gunbir Goswami,Cosmetic Dermatology,Dermatology,9,MS
+67,Dr. Geetika Naidu,Cosmetic Dermatology,Dermatology,10,MBBS MS
+68,Dr. Matthew Madan,Clinical Dermatology,Dermatology,19,DM
+69,Dr. Chanakya Warrior,Clinical Dermatology,Dermatology,30,MBBS MD
+70,Dr. Ekbal Arya,Cosmetic Dermatology,Dermatology,26,MD
+71,Dr. Lohit Pradhan,Clinical Dermatology,Dermatology,7,MBBS
+72,Dr. Samesh Oak,Cosmetic Dermatology,Dermatology,26,MD
+73,Dr. Dalaja Kamdar,Cosmetic Dermatology,Dermatology,12,MBBS MS
+74,Dr. Yashasvi Kant,Cosmetic Dermatology,Dermatology,23,MD
+75,Dr. Dakshesh Sahni,Clinical Dermatology,Dermatology,7,DM
+76,Dr. Brinda Dada,Cosmetic Dermatology,Dermatology,8,MBBS MS
+77,Dr. Adweta Srinivasan,Cosmetic Dermatology,Dermatology,6,DM
+78,Dr. Nachiket Patil,Clinical Dermatology,Dermatology,2,DM
+79,Dr. Timothy Virk,Retina,Ophthalmology,3,DM
+80,Dr. Harini Modi,Retina,Ophthalmology,8,MD
+81,Dr. Dhriti Kapadia,General Ophthalmology,Ophthalmology,28,MBBS
+82,Dr. Ekavir Karan,Cataract Surgery,Ophthalmology,18,MCh
+83,Dr. Dev Kadakia,Cataract Surgery,Ophthalmology,26,MD
+84,Dr. Balveer Sandal,Retina,Ophthalmology,25,MCh
+85,Dr. Brinda Bahl,General Ophthalmology,Ophthalmology,12,DM
+86,Dr. Tanveer Basak,Cataract Surgery,Ophthalmology,4,MBBS MS
+87,Dr. Darika Bali,Retina,Ophthalmology,10,MCh
+88,Dr. Wahab Dani,Retina,Ophthalmology,2,MBBS
+89,Dr. Anya Bhatti,Retina,Ophthalmology,14,MBBS MS
+90,Dr. Abdul Char,Retina,Ophthalmology,13,MS
+91,Dr. Harshil Iyengar,Retina,Ophthalmology,29,MBBS MD
+92,Dr. Pushti Balakrishnan,Cataract Surgery,Ophthalmology,24,MBBS
+93,Dr. Eta Mall,Retina,Ophthalmology,2,MS
+94,Dr. Qushi Dyal,Otology,ENT,6,MBBS MS
+95,Dr. Zayyan Bir,Otology,ENT,20,MBBS
+96,Dr. Abhimanyu Wadhwa,Head & Neck Surgery,ENT,6,MD
+97,Dr. Inaya Manda,Otology,ENT,3,MCh
+98,Dr. Aarnav Chaudhary,Head & Neck Surgery,ENT,23,MS
+99,Dr. Yashawini Soman,Head & Neck Surgery,ENT,15,MBBS MS
+100,Dr. George Sarraf,Rhinology,ENT,7,MD
+101,Dr. Gautam Pant,Head & Neck Surgery,ENT,27,MBBS MS
+102,Dr. Simon Kala,Rhinology,ENT,30,MBBS
+103,Dr. Samar Chowdhury,Otology,ENT,17,MD
+104,Dr. Diya Shukla,Rhinology,ENT,22,MS
+105,Dr. Yoshita Deshpande,Head & Neck Surgery,ENT,12,MBBS
+106,Dr. Pranit Mani,Rhinology,ENT,2,DM
+107,Dr. Benjamin Narang,Head & Neck Surgery,ENT,29,MD
+108,Dr. Devika Rajan,Otology,ENT,19,DM
+109,Dr. Vedant Muni,CT/MRI,Radiology,5,MBBS
+110,Dr. Jeevika Reddy,CT/MRI,Radiology,4,DM
+111,Dr. Tanish Gulati,CT/MRI,Radiology,17,DM
+112,Dr. Vyanjana Pillai,Interventional Radiology,Radiology,16,MD
+113,Dr. Abeer Swamy,Ultrasound,Radiology,17,DM
+114,Dr. Siya Sarma,CT/MRI,Radiology,12,MBBS MD
+115,Dr. Dipta Dhar,Interventional Radiology,Radiology,23,MBBS MD
+116,Dr. Sai Chaudry,Ultrasound,Radiology,17,MBBS MD
+117,Dr. Bachittar Patla,CT/MRI,Radiology,9,MCh
+118,Dr. Omkaar Iyer,CT/MRI,Radiology,9,MBBS MD
+119,Dr. Darsh Kaul,Interventional Radiology,Radiology,5,MBBS MD
+120,Dr. Yahvi Mallick,Ultrasound,Radiology,30,MCh
+121,Dr. Ryan Parekh,CT/MRI,Radiology,9,MS
+122,Dr. Samaksh Sundaram,Interventional Radiology,Radiology,23,MS
+123,Dr. Falak Sha,Microbiology,Pathology,20,MCh
+124,Dr. Divya Krishna,Histopathology,Pathology,12,DM
+125,Dr. Yadavi Kashyap,Microbiology,Pathology,6,MCh
+126,Dr. Alexander Chaudhary,Microbiology,Pathology,30,MBBS MS
+127,Dr. Bhavna Tara,Microbiology,Pathology,3,MBBS MS
+128,Dr. Gaurav Raja,Histopathology,Pathology,2,MD
+129,Dr. Faraj Mitter,Histopathology,Pathology,7,DM
+130,Dr. Brinda Venkatesh,Histopathology,Pathology,20,DM
+131,Dr. Vidhi Jaggi,Clinical Pathology,Pathology,8,MBBS MD
+132,Dr. Yadavi Swaminathan,Clinical Pathology,Pathology,8,DM
+133,Dr. Pavani Zachariah,Microbiology,Pathology,16,MBBS
+134,Dr. Anamika Sani,Microbiology,Pathology,26,MCh
+135,Dr. Sanaya Sengupta,Emergency Medicine,Emergency,10,MS
+136,Dr. Riya Savant,Critical Care,Emergency,23,MBBS
+137,Dr. Anita Bali,Critical Care,Emergency,4,MBBS MS
+138,Dr. Nidra Gala,Critical Care,Emergency,22,MBBS
+139,Dr. Tanveer Desai,Emergency Medicine,Emergency,9,DM
+140,Dr. Robert Sura,Emergency Medicine,Emergency,19,MBBS MD
+141,Dr. Xalak Zacharia,Emergency Medicine,Emergency,29,MS
+142,Dr. Vyanjana Dugar,Critical Care,Emergency,15,MCh
+143,Dr. Rohan Lall,Emergency Medicine,Emergency,14,MBBS MS
+144,Dr. Ranbir Pandit,Emergency Medicine,Emergency,28,MBBS MD
+145,Dr. Naveen Bhat,Emergency Medicine,Emergency,8,MBBS MD
+146,Dr. Aradhana Dave,Emergency Medicine,Emergency,20,MBBS MS
+147,Dr. Owen Bala,General Gynecology,Gynecology,13,MCh
+148,Dr. Ranveer Chatterjee,General Gynecology,Gynecology,18,MD
+149,Dr. Pooja Parikh,Obstetrics,Gynecology,5,MBBS MD
+150,Dr. Parth Bhalla,General Gynecology,Gynecology,22,MBBS MS

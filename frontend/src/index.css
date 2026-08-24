@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --color-navy: #0f2557;
+  --color-navy-dark: #0a1a3d;
+  --color-navy-light: #16336f;
+  --color-teal: #0d9488;
+  --color-teal-light: #14b8a6;
+  --color-gold: #f59e0b;
+  --color-coral: #ef4444;
+  --color-sage: #10b981;
+  --color-page: #f8fafc;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-page);
+  color: #0f172a;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.thin-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.thin-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.thin-scrollbar::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+.thin-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.react-flow__attribution {
+  background: transparent !important;
+}
+.react-flow__attribution a {
+  color: #94a3b8 !important;
+}
+
+@keyframes pulse-skeleton {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+.skeleton {
+  animation: pulse-skeleton 1.5s ease-in-out infinite;
+  background-color: #e2e8f0;
+  border-radius: 0.5rem;
+}

@@ -1,0 +1,38 @@
+treatment_id,treatment_name,category,base_cost,risk_level
+1,Coronary Bypass Surgery,Surgery,350000,High
+2,Hip Replacement,Surgery,280000,High
+3,Knee Replacement,Surgery,250000,High
+4,Appendectomy,Surgery,80000,Medium
+5,Cataract Surgery,Surgery,45000,Low
+6,Cesarean Section,Surgery,120000,Medium
+7,Hernia Repair,Surgery,60000,Low
+8,Tonsillectomy,Surgery,35000,Low
+9,General Consultation,Consultation,500,Low
+10,Specialist Consultation,Consultation,1500,Low
+11,Follow-up Visit,Consultation,300,Low
+12,Telemedicine Consultation,Consultation,400,Low
+13,Second Opinion,Consultation,2000,Low
+14,Complete Blood Count,Lab Test,600,Low
+15,Lipid Profile,Lab Test,800,Low
+16,Thyroid Panel,Lab Test,1200,Low
+17,Blood Sugar (Fasting),Lab Test,200,Low
+18,Liver Function Test,Lab Test,900,Low
+19,Kidney Function Test,Lab Test,1000,Low
+20,Urine Analysis,Lab Test,300,Low
+21,COVID-19 RT-PCR,Lab Test,500,Low
+22,Prescription Medication,Pharmacy,1500,Low
+23,IV Medication,Pharmacy,3000,Medium
+24,Vaccination,Pharmacy,800,Low
+25,Emergency Room Visit,Emergency,5000,Medium
+26,Trauma Care,Emergency,25000,High
+27,ICU Admission,Emergency,50000,High
+28,ECG,Procedure,500,Low
+29,Echocardiogram,Procedure,3000,Low
+30,X-Ray,Procedure,800,Low
+31,CT Scan,Procedure,5000,Low
+32,MRI Scan,Procedure,8000,Low
+33,Ultrasound,Procedure,1500,Low
+34,Endoscopy,Procedure,6000,Medium
+35,Colonoscopy,Procedure,8000,Medium
+36,Physiotherapy Session,Procedure,1000,Low
+37,Dialysis,Procedure,4000,Medium
