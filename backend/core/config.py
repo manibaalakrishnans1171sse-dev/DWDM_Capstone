@@ -17,8 +17,9 @@ class Settings:
     GOOGLE_MAPS_API_KEY: str = os.getenv("GOOGLE_MAPS_API_KEY", "")
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
     CORS_ORIGINS: list = [
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
+        origin.strip()
+        for origin in os.getenv("CORS_ORIGINS", "http://localhost:5173,http://127.0.0.1:5173").split(",")
+        if origin.strip()
     ]
 
     # External DWDM toolchain — KNIME does ETL + mining as a batch-mode workflow

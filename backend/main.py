@@ -35,7 +35,12 @@ def root():
 
 @app.get("/health")
 def health():
-    return {"status": "healthy"}
+    try:
+        from core.database import run_query_one
+        run_query_one("SELECT 1")
+        return {"status": "healthy", "database": "connected"}
+    except Exception as e:
+        return {"status": "unhealthy", "database": str(e)}
 
 
 app.include_router(auth.router)
