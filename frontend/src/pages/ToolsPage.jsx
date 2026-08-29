@@ -97,11 +97,11 @@ export default function ToolsPage() {
                 Reads hospital CSV → cleans data → loads to PostgreSQL → runs K-Means, Decision Tree, and
                 Association Rules as visual node workflows.
               </p>
-              <div className="rounded-lg bg-slate-50 border border-dashed border-slate-300 h-36 flex items-center justify-center text-center px-4">
-                <p className="text-xs text-slate-400">
-                  KNIME Workflow Screenshot — <br />[ Insert screenshot of your KNIME workflow here ]
-                </p>
-              </div>
+              <img
+                src="/knime_workflow.png"
+                alt="KNIME ETL and Mining Workflow"
+                className="w-full rounded-lg border border-gray-200 shadow-sm"
+              />
               <div className="border-t border-slate-100 pt-3 mt-auto">
                 <p className="text-[11px] font-semibold text-teal">Outputs Produced</p>
                 <p className="text-xs text-slate-500">3 mining tables populated, model_log updated</p>
@@ -131,11 +131,11 @@ export default function ToolsPage() {
                 Visualizes decision tree structure, patient cluster scatter plots, and association rule networks
                 using drag-drop widgets.
               </p>
-              <div className="rounded-lg bg-slate-50 border border-dashed border-slate-300 h-36 flex items-center justify-center text-center px-4">
-                <p className="text-xs text-slate-400">
-                  Orange Workflow Screenshot — <br />[ Insert screenshot of your Orange workflow here ]
-                </p>
-              </div>
+              <img
+                src="/orange_workflow.png"
+                alt="Orange Data Mining Workflow"
+                className="w-full rounded-lg border border-gray-200 shadow-sm"
+              />
               <div className="border-t border-slate-100 pt-3 mt-auto">
                 <p className="text-[11px] font-semibold text-teal">Outputs Produced</p>
                 <p className="text-xs text-slate-500">Decision tree diagram, cluster scatter plot, rule visualization</p>
